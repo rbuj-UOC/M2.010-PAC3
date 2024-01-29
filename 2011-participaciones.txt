@@ -1,0 +1,9 @@
+  id Nombre                   Email              #F   Part(/)   Part(&)
+----------------------------------------------------------------------------
+   2 Antonia Gelonch Tapies   agelonch@uoc.edu    2   7/24     29,16%
+   5 Robert Buj Gelonch       rbuj@uoc.edu        1   1/6      16,66%
+   9 Josep Ramon Roca Gelonch jroca@uoc.edu       2   7/24     29,16%
+  10 Oriol Gaya Buj           ogaya@uoc.edu       2   1/8      12,50%
+  11 Marc Gaya Buj            mgaya@uoc.edu       2   1/8      12,50%
+----------------------------------------------------------------------------
+   5                                              9   1        99,98%
