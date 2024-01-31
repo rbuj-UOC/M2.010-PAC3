@@ -11,14 +11,14 @@ Nom√©s per aquells que ja domineu Java i com OPCIONAL per ajudar a obtenir la m√
 
 ## Entorn de desenvolupament
 
-- IDE: NetBeans 7.0.1 (Java SE)
-- SO: Ubuntu 11.10 + OpenJDK 1.6
+- IDE: NetBeans 20
+- SO: macOS Sonoma + JDK 21 LTS
 
 ```sh
 $: java -version
-java version "1.6.0_23"
-OpenJDK Runtime Environment (IcedTea6 1.11pre) (6b23~pre11-0ubuntu1.11.10)
-OpenJDK Client VM (build 20.0-b11, mixed mode, sharing)
+java 21.0.1 2023-10-17 LTS
+Java(TM) SE Runtime Environment (build 21.0.1+12-LTS-29)
+Java HotSpot(TM) 64-Bit Server VM (build 21.0.1+12-LTS-29, mixed mode, sharing)
 ```
 
 ### Per afegir o modificar els arguments del programa
